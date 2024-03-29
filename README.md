@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Augustin MORVAL
+- 👋 Hi, I’m Augustin
 - 👀 I’m interested in emerging technologies such as blockchain and AI...
 - 🌱 I’m currently learning Python for Data Analysis 
 - 📫 How to reach me : augustin.morval.pro@gmail.com
