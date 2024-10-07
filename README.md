@@ -4,17 +4,14 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/AugustinMORVAL?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/AugustinMORVAL?style=social)
-![RAG](https://img.shields.io/badge/-RAG-FF6F61?style=flat-square&logo=OpenAI&logoColor=white)
-![Multi-Agent](https://img.shields.io/badge/-Multi-Agent-FF6F61?style=flat-square&logo=OpenAI&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=flat-square&logo=OpenAI&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-FF6F61?style=flat-square&logo=OpenAI&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-FF6F61?style=flat-square&logo=OpenAI&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 
 ### 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=flat-square&logo=TensorFlow&logoColor=white) 
 ![LLMs](https://img.shields.io/badge/-LLMs-FF6F61?style=flat-square&logo=OpenAI&logoColor=white)
+![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
 ### 🚀 Featured Projects
