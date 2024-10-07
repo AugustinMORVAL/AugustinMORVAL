@@ -23,9 +23,8 @@
 ### 🌱 I'm currently learning
 
 - Advanced Machine Learning algorithms
-- Cloud Computing 
-- SQL for Data Analytics
-
+- Cloud Computing
+- 
 ### 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/augustin-morval/)
