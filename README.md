@@ -16,9 +16,9 @@
 
 ### 🚀 Featured Projects
 
-1. **[Audio-Transcriptor](https://github.com/AugustinMORVAL/Audio-Transcriptor)** - Python tool for accurate audio-to-text conversion using advanced speech recognition.
-2. **[Chat with Groq](https://github.com/AugustinMORVAL/Multitask_Chatbot)** - AI-powered multitask chatbot leveraging Groq's LPU for fast, efficient conversations.
-3. **[Streamlit Cheatsheet](https://github.com/AugustinMORVAL/Streamlit_cheatsheet)** - Comprehensive guide and reference for Streamlit, showcasing various components and features.
+1. **[PicToMusic](https://github.com/AugustinMORVAL/PicToMusic)** - A Deep Learning project that generates audio played music from music score sheets.
+2. **[Audio-Transcriptor](https://github.com/AugustinMORVAL/Audio-Transcriptor)** - Python tool for accurate audio-to-text conversion using advanced speech recognition.
+3. **[Chat with Groq](https://github.com/AugustinMORVAL/Multitask_Chatbot)** - AI-powered multitask chatbot leveraging Groq's LPU for fast, efficient conversations.
 
 ### 🌱 I'm currently learning
 
